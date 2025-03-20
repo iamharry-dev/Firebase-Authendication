@@ -6,4 +6,4 @@
 
 ## Preview 
 
-![Screenshot](Capture.PNG)
+![Screenshot](Capture.png)
